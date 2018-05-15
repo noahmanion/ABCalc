@@ -1,0 +1,29 @@
+.container {
+  margin-top:20px;
+  background-color:red;
+  height:100%;
+  width:60%;
+  margin: 0 auto;
+  color:#fff;
+}
+.calculator {
+  padding: 10px;
+  margin: 10px; 
+}
+p {
+  margin-bottom:0;
+}
+#a_group {
+  margin-bottom:30px;
+  background-color: green;
+  padding: 10px;
+}
+#b_group {
+  margin-bottom: 30px;
+  background-color: blue;
+  padding: 10px;
+}
+input {
+  width: 25%;
+  margin: 0 auto;
+}
